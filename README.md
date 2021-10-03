@@ -1,4 +1,4 @@
-- 👋 Hi
+- 👋 Hi I'm Cassie
 - 👀 I’m interested in Languages, WebDev, Law
 - 🌱 I’m currently learning TypeScript, GraphQL
 - 💞️ I’m looking to collaborate on anything I guess
